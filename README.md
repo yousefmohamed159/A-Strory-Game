@@ -4,4 +4,4 @@ This is a simple text-based adventure game built with Python, where the player e
 
 **Tool:**
 
-🔵 **Python**
+  🔵 **Python**
